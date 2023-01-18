@@ -1,5 +1,5 @@
 # Basic-Web-Programming-Project
-Proyek ini merupakan salah satu tugas untuk menyelesaikan sertifikasi dari Pemrograman Web Dasar oleh Dicoding
+Proyek ini merupakan salah satu tugas untuk menyelesaikan sertifikasi dari Pemrograman Web Dasar oleh Dicoding.
 Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerjakan tugas Halaman Website sesuai kriteria lengkap di bawah. Tim reviewer akan memeriksa pekerjaan Anda dan memberikan review pada proyek yang Anda buat.
 
 # Kriteria Submission
