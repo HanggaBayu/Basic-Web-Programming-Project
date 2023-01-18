@@ -16,3 +16,5 @@ Berikut kriteria submission yang harus Anda penuhi:
 Berikut sketsa dari struktur website yang bisa dijadikan referensi untuk mengerjakan submission, namun tidak diwajibkan asalkan memenuhi kriteria submission:
 ![image](https://user-images.githubusercontent.com/99377476/213119381-d51aa99e-59c3-4672-87fb-dd2f23bdcfa6.png)
 
+## Berikut adalah hasil penugasan dengan judul project "aturUang"
+![image](https://user-images.githubusercontent.com/99377476/213120077-1d2ee7a4-1032-439a-bc6b-f7b873cbcc00.png)
